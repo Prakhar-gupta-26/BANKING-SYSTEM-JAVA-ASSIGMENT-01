@@ -1,9 +1,11 @@
 Overview
+
 This is a Java-based Banking Application designed to simulate basic bank account management operations including account creation, deposits, withdrawals, viewing account details, and updating contact information.
 
 The project demonstrates core Object-Oriented Programming (OOP) concepts alongside control structures, arrays, and string handling.
 
 Features 🚀
+
 Create new accounts with unique account numbers
 Deposit and withdraw money with validation
 View detailed account information including balance and contact details
